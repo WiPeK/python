@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#import re
+#emailAddress = input()
+#pat2 = "(\w+)@((\w+\.)+(com))"
+#r2 = re.match(pat2,emailAddress)
+#print (r2.group(1))
+
+s = input()
+u = unicode( s ,"utf-8")
+print (u)
